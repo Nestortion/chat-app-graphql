@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1724056583125,
+      "tag": "0000_smart_sphinx",
+      "breakpoints": true
+    }
+  ]
+}
